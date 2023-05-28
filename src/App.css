@@ -1,0 +1,40 @@
+.app {
+  background-size: cover;
+  background-position: center;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.clear {
+  background-image: url(../day-clear-sky.jpg);
+}
+
+.clouds {
+  background-image: url(../day-few-clouds.jpg);
+}
+
+.shower-rain {
+  background-image: url(../rainy-day.jpg);
+}
+
+.rain {
+  background-image: url(../rainy-day.jpg);
+}
+
+.thunderstorm {
+  background-image: url(../thunderstorm.jpg);
+}
+
+.snow-time {
+  background-image: url(../snow.jpg);
+}
+
+.mist-time {
+  background-image: url(../mist.jpg);
+}
+
+.default {
+  background-image: url(../day-clear-sky.jpg);
+}
